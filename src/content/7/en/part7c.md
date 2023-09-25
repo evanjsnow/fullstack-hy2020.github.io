@@ -1,3 +1,5 @@
+// Hello, sorry if I'm not doing this the correct way, but I wanted to propose adding a module on incorporating a font-based icon library like FontAwesome into the app. A long time ago we used to create our own icons, but since 2010 or so all of the software I've worked on gets its icons from libraries like that. Thanks again for this great class!!!
+
 ---
 mainImage: ../../../images/part-7.svg
 part: 7
